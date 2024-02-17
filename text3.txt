@@ -1,1 +1,2 @@
 Centralization and Decentralization.
+Automation Testing.
